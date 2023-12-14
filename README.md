@@ -12,10 +12,12 @@ In the future, I plan to develop more and more in this area of programming. I li
 I like to develop and enjoy what I do :D
 
 <br clear="both">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SystemRar&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SystemRar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
 
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=systemRar&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&text_color=ECFFF9&icon_color=83FFD8&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SystemRar&layout=compact&theme=github_dark&hide_border=true&title_color=ECFFF9&size_weight=0.5&count_weight=0.5)
+  
 </div>
 
 ###
